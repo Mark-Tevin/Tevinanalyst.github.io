@@ -1,0 +1,80 @@
+                       Data Scientist / Analyst
+                                                                                       TEVIN MARK SIMIYU	(254) 745 919 252 | tevinsmark@gmail.com 
+                                                                                       https://www.linkedin.com/in/mark-tevin/
+                                                                                       https://github.com/Mark-Tevin
+                                                                                       Nairobi, Kenya
+
+Skills
+ 
+•	SQL (SQL Server, MySQL, PostgreSQL)
+•	Python (Pandas, NumPy, SciPy, Matplotlib)
+•	Tableau
+•	Excel (VLOOKUP, Conditional Formatting, Pivot Tables)
+•	Exploratory Data Analysis
+•	Data annotation
+•	Microsoft Azure (Data Bricks, Azure Data Lake, Azure Data Warehouse)
+•	PySpark
+•	Microsoft Power BI
+•	Feature Engineering
+•	Data Visualization
+•	Data Collection and Modelling
+
+ 
+
+Projects
+DATA SCIENCE HOUSE PRICE EDA – Personal Project – Nairobi, PA                                                                                  Jan 2024
+●	Utilized Python Flask to build a seamless integration of the model for a House Price Prediction Project
+●	Implemented Regex techniques to comb through the job descriptions and identify the key requirements 
+●	Aggregated and visualized the data by using pandas, matplotlib, and Word Cloud to compile a professional report
+ROAD ACCIDENTS DATA ANALYSIS DASHBOARD – Virtual Client’s Project – Nairobi, KENYA                                  March 2022
+●	Created a dashboard with Power BI to help clients compare Total Casualties and Total Accident values for the Current Year and YoY growth
+●	Transformed and processed client’s data by using DAX and Excel to ensure data completeness and validity
+●	Provided technical insights on how the client can fully utilize their data by introducing different technologies 
+●	Consulted with the client to determine the best metrics to be displayed on the final product
+SALES ANALYSIS OF ELECTRONIC PURCHASE RECORDS – Personal Project – Nairobi, KENYA 	December 2022
+●	Utilized Python in Jupyter Notebooks to perform sentiment analysis on 14,000 Twitter reviews of six major airlines
+●	Performed data cleaning and text analysis to successfully identify the major complaints for each airline
+●	Applied regression and machine learning to produce a final model with an accuracy of 88% and lift of 34%
+CUSTOMER SALES ANALYSIS – Personal Project 	Feb 2021
+●	Utilized SQL to extract data from 8 different related tables from customer sales databases using JOIN and VIEW
+●	Transformed and filtered data by using aggregating and filtering functions to improve the reporting process
+●	Loaded and visualized data with Python to identify key business intelligence that can improve sales performance
+Work Experience
+Airbnb Data Analysis, Business Analytics with SAS – CPF Insurance – Nairobi, Kenya	March 2023 - October 2023
+●	Built Models using a Decision tree, Neural Networks, and Logistic Regression to analyze KPIs behind the determination of the price of a room for the new hosts and predicted about 19% profit.
+●	Implemented a new reporting using Excel Pivot and VBA which help reduced processing time by 50% 
+●	Generated three process reports weekly for continuous accounts for financial and developmental analysis
+●	Implementation of data mining techniques to gain insights into business, helping Airbnb to rise in the market
+LEASING ASSITANT – UACT Associates – Philadelphia, PA 	December 2021 - February 2022
+●	Organized operational expenses checkbooks for 15 properties and audited the company’s financial statement
+●	Promoted vacant properties through word of mouth and social media, resulting in successfully leasing out 60% of apartments
+●	Organized house tours and maintained properties through monthly inspections 
+●	Served as a liaison between landlord, tenants, and building managers to resolve issues pertaining to the properties	
+Education
+BACHELOR OF BUSINESS INFORMATION TECHNOLOGY – Jomo Kenyatta University of Agriculture & Technology (JKUAT) 
+Majors: Business Analytics, Data Structure and Analysis, International Business 
+
+DATA SCIENCE PRACTITIONER – IBM                                                                                                               JAN 2021
+INTRO TO AI ETHICS - KAGGLE                                                                                                                              AUG 2023
+DATA VISUALIZATION - KAGGLE
+INTRODUCTION TO ETHICAL HACKING & PENETRATION TESTING - Cisco Networking Academy        
+INTRODUCTION TO DATA SCIENCE - Cisco Networking Academy
+ENTERPRISE DESIGN THINKING PRACTITIONER - IBM                                                                  JAN 2021
+DATA SCIENCE FOUNDATIONS – Zindua School
+SOFTWARE ENGINEERING FOUNDATIONS – ALX Academy   
+INTRODUCTION TO AWS – DATA CAMP
+AWS MACHINE LEARNING FOUNDATIONS – UDACITY
+GOOGLE CLOUD COMPUTING FOUNDATIONS: DATA, ML, AND AI IN GOOGLE CLOUD
+CS50'S INTRODUCTION TO ARTIFICIAL INTELLIGENCE WITH PYTHON - HAVARD UNIVERSITY
+INTRODUCTION TO COMPUTER SCIENCE – HAVARD UNIVERSITY
+CS50'S INTRODUCTION TO PROGRAMMING WITH PYTHON – Havard X
+DATA ANALYTICS ESSENTIALS - Cisco Networking Academy
+
+
+
+
+
+
+                                                           
+
+
